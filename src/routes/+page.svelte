@@ -34,6 +34,7 @@
 					<option value="html">HTML</option>
 					<option value="css">CSS</option>
 					<option value="ts">TypeScript</option>
+					<option value="ts">JavaScript</option>
 					<option value="python">Python</option>
 				</select>
 			</label>
